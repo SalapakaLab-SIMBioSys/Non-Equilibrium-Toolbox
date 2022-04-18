@@ -54,6 +54,21 @@ class NE_Error_Bounds():
         self.DKWM_bins = 100
     #--------------------------------------------------------------------------    
     
+    #--------------------------------------------------------------------------
+    # Compute the Jarzynski estimate using a stable log sum computation
+    #--------------------------------------------------------------------------
+    def get_Jarzynski_estimate(self, w, work_in_joules = False):    
+        
+        if(work_in_joules == False):
+            dF_estimate = -np.log(np.exp(scp.logsumexp(-w))/np.size(w)) # Jarzynski Estimate
+            
+        else:
+            w_norm = w*self.beta
+            dF_estimate = -np.log(np.exp(scp.logsumexp(-w_norm))/np.size(w_norm)) # Jarzynski Estimate
+            dF_estimate  = dF_estimate/self.beta
+    
+        return(dF_estimate)
+    #--------------------------------------------------------------------------
     
     #--------------------------------------------------------------------------
     # Mean and Standard Deviation using log sum exponentials for numerical stability

@@ -39,18 +39,18 @@ Here are examples of the bounds in action on different distributions of work:
 
 
 <p float="left">
-  <img src="Figures/Work_Gaussian_Distribution.jpg" title = "Truncated Normal Work Distribution" width = "100"  />
-  <img src="Figures/Bounds_Gaussian_Distribution.jpg" title = "Bounds computed for truncated normal work distribution" width = "100" /> 
+  <img src="Figures/Work_Gaussian_Distribution.jpg" title = "Truncated Normal Work Distribution" width = "200"  />
+  <img src="Figures/Bounds_Gaussian_Distribution.jpg" title = "Bounds computed for truncated normal work distribution" width = "200" /> 
 </p>
 
 <p float="left">
-  <img src="Figures/Work_Bimodal_Distribution.jpg" title = "Bimodal Work Distribution" width= "100" />
-  <img src="Figures/Bounds_Bimodal_Distribution.jpg" title = "Bounds computed for bimodal work distribution" width= "100" /> 
+  <img src="Figures/Work_Bimodal_Distribution.jpg" title = "Bimodal Work Distribution" width= "200" />
+  <img src="Figures/Bounds_Bimodal_Distribution.jpg" title = "Bounds computed for bimodal work distribution" width= "200" /> 
 </p>
 
 <p float="left">
-  <img src="Figures/Work_Beta_Distribution.jpg" title = "Beta Distributed Work" width= "100" />
-  <img src="Figures/Bounds_Beta_Distribution.jpg" title = "Bounds computed for beta work distribution" width= "100" /> 
+  <img src="Figures/Work_Beta_Distribution.jpg" title = "Beta Distributed Work" width= "200" />
+  <img src="Figures/Bounds_Beta_Distribution.jpg" title = "Bounds computed for beta work distribution" width= "200" /> 
 </p>
 
 

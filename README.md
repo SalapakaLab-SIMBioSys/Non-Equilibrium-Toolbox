@@ -55,6 +55,6 @@ Here are examples of the bounds in action on different distributions of work:
 
 
 # Citation 
-To cite SDA, please use:
+To cite this toolbox, please use:
 
 - Rajaganapathy, Sivaraman, and Murti Salapaka. "Confidence bounds for the Jarzynski estimator." Bulletin of the American Physical Society (2022).

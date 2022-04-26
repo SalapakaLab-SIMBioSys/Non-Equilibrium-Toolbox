@@ -3,7 +3,7 @@
   <img src="Figures/Logo/NET_Crop.svg" title = "Non-Equilibrium Toolbox" width = "1000"  />
 </p>
 
-Non-Equilibrium Toolbox: For computing confidence bounds on the free-energy estimates computed from non-equilibrium experiments via the Jarzynski equality. 
+**Non-Equilibrium Toolbox (NET):** For computing confidence bounds on the free-energy estimates computed from non-equilibrium experiments via the Jarzynski equality. 
 
 # How to use
 Here is a sample code to compute the confidence bounds on the Jarzynski estimator in 5 easy steps:

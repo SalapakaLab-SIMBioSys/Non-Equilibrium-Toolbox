@@ -43,8 +43,8 @@ Here are examples of the bounds in action on different distributions of work:
 
 
 <p float="left">
-  <img src="Figures/Synthetic_data_results_details.png" title = "Truncated Normal Work Distribution" width = "300"  />
-  <img src="Figures/Synthetic_data_results.png" title = "Bounds computed for truncated normal work distribution" width = "300" /> 
+  <img src="Figures/Synthetic_data_results_details.png" title = "Truncated Normal Work Distribution" width = "1000"  />
+  <img src="Figures/Synthetic_data_results.png" title = "Bounds computed for truncated normal work distribution" width = "1000" /> 
 </p>
 
 

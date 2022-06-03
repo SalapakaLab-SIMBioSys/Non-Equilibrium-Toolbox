@@ -47,6 +47,10 @@ of a collection of $500$ computations of the bounds. An example case $\left(N=30
   <img src="Figures/Synthetic_data_results.png" title = "Synthesized data result" width = "1000" /> 
 </p>
 
+# Jarzynski Equality
+
+
+https://user-images.githubusercontent.com/55514485/171937659-b4d08e1c-3fdd-4e01-a18e-3739e49337e8.mp4
 
 
 # Citation 

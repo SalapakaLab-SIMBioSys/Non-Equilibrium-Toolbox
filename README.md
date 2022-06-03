@@ -39,12 +39,23 @@ dF_estimate = NEBObj.get_Jarzynski_estimate(w) # dF estimate
 ```
 
 # Examples
-Here are examples of the bounds in action on different distributions of work:
-
+A summary of the performance and characteristics of the bounds on the synthetic data. (a) A detailed view of the performance results. The
+box plot shows (left) showcases the performance of the Combined Bounds
+at $95\%$ confidence level on work distributions that are truncated
+normals, with $\left\langle w_{d}\right\rangle /\Delta F=0.5$ as
+the number of samples are increased. Each box plot represents one
+case of the synthetic data validation, wherein each case comprises
+of a collection of $500$ computations of the bounds. An example case
+$\left(N=3034\right)$ is shown in more detail on the right. The summarized
+view of the bounds from the synthetic data study, with varying distributions,
+varying $\left\langle w_{d}\right\rangle $, and increasing $N$,
+is shown in (b). The performance curves have been obtained using $500$
+computations for each case and interpolating the modes of the data
+obtained in each case.
 
 <p float="left">
-  <img src="Figures/Synthetic_data_results_details.png" title = "Truncated Normal Work Distribution" width = "1000"  />
-  <img src="Figures/Synthetic_data_results.png" title = "Bounds computed for truncated normal work distribution" width = "1000" /> 
+  <img src="Figures/Synthetic_data_results_details.png" title = "Synthesized data result details" width = "1000"  />
+  <img src="Figures/Synthetic_data_results.png" title = "Synthesized data result" width = "1000" /> 
 </p>
 
 

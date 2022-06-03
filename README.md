@@ -48,7 +48,11 @@ of a collection of $500$ computations of the bounds. An example case $\left(N=30
 </p>
 
 # Jarzynski Equality
-
+The Jarzynski equality links the equilibrium free energy differences between two states of a system to the non-equilibrium work required to move the system between the states.This is given by 
+\begin{equation}
+e^{-\beta\Delta F}=\left\langle e^{-\beta W}\right\rangle ,\label{eq:the_Jar_equality}
+\end{equation}
+where $\Delta F$ is the free energy difference between two states of interest, and $\beta:=\frac{1}{k_{B}T}$ is the inverse of the product of the Boltzmann constant $k_{B}$ and the temperature $T.$ The angular brackets $\left\langle \cdot\right\rangle $ denote an average over the values of the non-equilibrium work $W$ measured in moving the system between the equilibrium states.
 
 https://user-images.githubusercontent.com/55514485/171937659-b4d08e1c-3fdd-4e01-a18e-3739e49337e8.mp4
 

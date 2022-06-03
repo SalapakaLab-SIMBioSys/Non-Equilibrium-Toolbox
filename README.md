@@ -43,19 +43,10 @@ Here are examples of the bounds in action on different distributions of work:
 
 
 <p float="left">
-  <img src="Figures/Work_Gaussian_Distribution.jpg" title = "Truncated Normal Work Distribution" width = "300"  />
-  <img src="Figures/Bounds_Gaussian_Distribution.jpg" title = "Bounds computed for truncated normal work distribution" width = "300" /> 
+  <img src="Figures/Synthetic_data_results_details.png" title = "Truncated Normal Work Distribution" width = "300"  />
+  <img src="Figures/Synthetic_data_results.png" title = "Bounds computed for truncated normal work distribution" width = "300" /> 
 </p>
 
-<p float="left">
-  <img src="Figures/Work_Bimodal_Distribution.jpg" title = "Bimodal Work Distribution" width= "300" />
-  <img src="Figures/Bounds_Bimodal_Distribution.jpg" title = "Bounds computed for bimodal work distribution" width= "300" /> 
-</p>
-
-<p float="left">
-  <img src="Figures/Work_Beta_Distribution.jpg" title = "Beta Distributed Work" width= "300" />
-  <img src="Figures/Bounds_Beta_Distribution.jpg" title = "Bounds computed for beta work distribution" width= "300" /> 
-</p>
 
 
 # Citation 

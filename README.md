@@ -52,7 +52,7 @@ The Jarzynski equality links the equilibrium free energy differences between two
 $$e^{-\beta\Delta F}=\left\langle e^{-\beta W}\right\rangle ,\label{eq:the_Jar_equality}$$
 where $\Delta F$ is the free energy difference between two states of interest, and $\beta:=\frac{1}{k_{B}T}$ is the inverse of the product of the Boltzmann constant $k_{B}$ and the temperature $T.$ The angular brackets $\left\langle \cdot\right\rangle $ denote an average over the values of the non-equilibrium work $W$ measured in moving the system between the equilibrium states.
 
-H
+The following video shows an illustrative example of the Jarzynski example. In the top left, the schematic of the spring mass system is shown with the blue particle being the externally controlled variable and the green particle being the mass. As the blue particle is stretching according to the top middle plot, the position and the velocity of the mass can be seen in the middle left and bottom left plots. The phase space of the mass can be seen in the center plot. The work done along the trajectory is in the middle bottom plot while the blue particle is stretching. The top right plot is showing work done along multi trajectories and the bottom right plot repeats showing the phase space of hundred of particles. The middle right figure shows the histogram of work done for the whole trajectory, which is approximately Gaussian distributed. 
 
 https://user-images.githubusercontent.com/55514485/171937659-b4d08e1c-3fdd-4e01-a18e-3739e49337e8.mp4
 
